@@ -1,0 +1,13 @@
+[2026-11-21 08:45:06] CARD:****---- | BOOT         | ATM Simulator started
+[2026-11-21 08:45:13] CARD:****1234 | LOGIN        | Login successful
+[2026-11-21 08:45:27] CARD:****1234 | WITHDRAW     | ₹20.00 cash dispensed.
+[2026-11-21 08:48:14] CARD:****1234 | LOGOUT       | Card ejected
+[2026-11-21 08:48:23] CARD:****8890 | BLOCKED      | Blocked card access attempt
+[2026-11-21 08:48:39] CARD:****4821 | LOGIN        | Login successful
+[2026-11-21 08:48:50] CARD:****4821 | BALANCE      | Balance checked
+[2026-11-21 09:34:40] CARD:****---- | BOOT         | ATM Simulator started
+[2026-11-21 09:34:54] CARD:****4821 | LOGIN        | Login successful
+[2026-11-21 09:35:03] CARD:****4821 | BALANCE      | Balance checked
+[2026-11-21 09:35:19] CARD:****4821 | DEPOSIT      | ₹100.00 deposited successfully.
+[2026-11-21 09:35:44] CARD:****4821 | BALANCE      | Balance checked
+[2026-11-21 09:35:51] CARD:****4821 | LOGOUT       | Card ejected

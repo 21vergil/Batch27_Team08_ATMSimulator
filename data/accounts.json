@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "last4": "1234",
+      "name": "Chinmay",
+      "pin": "1234",
+      "balance": 50000.00,
+      "is_blocked": false,
+      "failed_attempts": 0
+    },
+    {
+      "last4": "4821",
+      "name": "Anvesh Raman",
+      "pin": "1111",
+      "balance": 4987930000000100.00,
+      "is_blocked": false,
+      "failed_attempts": 0
+    },
+    {
+      "last4": "8890",
+      "name": "Naman",
+      "pin": "6767",
+      "balance": 780.25,
+      "is_blocked": true,
+      "failed_attempts": 0
+    }
+  ]
+}
